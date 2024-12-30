@@ -69,11 +69,5 @@ ProtonFarming Bot - это специализированное решение, 
 </div>
 
 <div align="center">
-
-## 📊 Статистика активности
-
-[![Activity graph](https://activity-graph.herokuapp.com/graph?username=Panda404NotFound&theme=gotham&hide_border=true)](https://github.com/Panda404NotFound/ProtonFarming)
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </div>
